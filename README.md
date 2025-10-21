@@ -13,7 +13,7 @@ O projeto foi corrigido para garantir que o frontend e backend se comuniquem cor
 
 ### Passo 1: Iniciar o Backend
 ```bash
-cd "Back-End---GF"
+cd "Back-End"
 npm install
 npm start
 ```
@@ -21,7 +21,7 @@ npm start
 
 ### Passo 2: Iniciar o Frontend (em outro terminal)
 ```bash
-cd "Front-End---GF"
+cd "Front-End"
 npm install
 npm run dev
 ```
@@ -141,9 +141,8 @@ O projeto usa **Supabase** (PostgreSQL na nuvem):
 ## 📞 Suporte
 
 Se encontrar problemas:
-1. Verifique os arquivos `INSTRUÇÕES.md` e `RESUMO_CORREÇÕES.md`
-2. Verifique os logs no terminal do backend
-3. Verifique o console do navegador (F12) no frontend
+1. Verifique os logs no terminal do backend
+2. Verifique o console do navegador (F12) no frontend
 
 ## ✨ Próximos Passos
 
