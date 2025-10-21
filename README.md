@@ -152,5 +152,3 @@ Depois de testar:
 
 ---
 
-**Projeto corrigido e pronto para uso! 🎉**
-
