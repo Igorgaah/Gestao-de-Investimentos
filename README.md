@@ -1,8 +1,5 @@
 # 🚀 Guia de Início Rápido - IBank Investimentos
 
-## ✅ Correções Realizadas
-O projeto foi corrigido para garantir que o frontend e backend se comuniquem corretamente:
-
 1. ✅ Nomes de campos padronizados (`investment_date`, `created_at`, `updated_at`)
 2. ✅ Tipo de dados correto (`amount` agora é número)
 3. ✅ Conversão automática de dados no formulário
